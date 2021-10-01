@@ -1,0 +1,1 @@
+[{"id":1,"price":200.00,"title":"Compás","thumbnail":"compas.jpg"},{"id":2,"price":500.56,"title":"Calculadora","thumbnail":"calculadora.jpg"},{"id":3,"price":350.67,"title":"Lapiceras","thumbnail":"lapiceras.jpg"},{"id":4,"price":100000.00,"title":"Laptop","thumbnail":"laptop.jpg"}]
